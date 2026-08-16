@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "question": "إذا كان معك 5 تفاحات وأعطيت بسوم 2، كم يتبقى معك؟",
+    "correct_answer": "3",
+    "wrong_answers": ["2", "4", "5"],
+    "subject": "رياضيات",
+    "difficulty": "سهل جداً",
+    "target_audience": ["وليد", "الكل"],
+    "image": "",
+    "explanation": "5 ناقص 2 يساوي 3."
+  },
+  {
+    "id": 2,
+    "question": "كم عدد الكواكب في مجموعتنا الشمسية؟",
+    "correct_answer": "8",
+    "wrong_answers": ["7", "9", "10"],
+    "subject": "علوم",
+    "difficulty": "سهل",
+    "target_audience": ["وليد", "بسوم", "الكل"],
+    "image": "",
+    "explanation": "بلوتو لم يعد يعتبر كوكباً أساسياً، لذلك لدينا 8 كواكب فقط."
+  },
+  {
+    "id": 3,
+    "question": "ما هو الرقم الذي يكمل السلسلة: 2, 4, 8, 16, ...؟",
+    "correct_answer": "32",
+    "wrong_answers": ["24", "20", "64"],
+    "subject": "منطق",
+    "difficulty": "متوسط",
+    "target_audience": ["بسوم", "15+"],
+    "image": "",
+    "explanation": "نقوم بضرب كل رقم في 2 لنحصل على الرقم التالي."
+  },
+  {
+    "id": 4,
+    "question": "ما هي عاصمة فرنسا؟",
+    "correct_answer": "باريس",
+    "wrong_answers": ["مرسيليا", "ليون", "تولوز"],
+    "subject": "جغرافيا",
+    "difficulty": "سهل",
+    "target_audience": ["بسوم", "15+", "الكل"],
+    "image": "",
+    "explanation": "باريس هي عاصمة فرنسا وأكبر مدينة فيها."
+  },
+  {
+    "id": 5,
+    "question": "حل المعادلة: 2x + 5 = 13",
+    "correct_answer": "4",
+    "wrong_answers": ["3", "5", "6"],
+    "subject": "رياضيات",
+    "difficulty": "متوسط",
+    "target_audience": ["15+", "بسوم"],
+    "image": "",
+    "explanation": "2x = 13 - 5 = 8، إذن x = 4"
+  },
+  {
+    "id": 6,
+    "question": "ما هو أكبر مخلوق حي على الأرض؟",
+    "correct_answer": "الحوت الأزرق",
+    "wrong_answers": ["الفيل", "الزرافة", "الديناصور"],
+    "subject": "علوم",
+    "difficulty": "سهل",
+    "target_audience": ["وليد", "بسوم", "الكل"],
+    "image": "",
+    "explanation": "الحوت الأزرق هو أكبر مخلوق حي عاش على الأرض على الإطلاق."
+  }
+]
